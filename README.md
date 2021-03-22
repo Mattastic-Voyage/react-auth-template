@@ -2,7 +2,7 @@
 
 # react-auth-template
 
-A front-end framework template for starting projects with a recent version of
+A front-end framework template for starting projects with a recent 
 either the [Rails API Template](https://git.generalassemb.ly/ga-wdi-boston/rails-api-template)
 or the [Express API Template](https://git.generalassemb.ly/ga-wdi-boston/express-api-template).
 
